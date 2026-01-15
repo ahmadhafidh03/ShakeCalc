@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ShakeCalc" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="BtnBase" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="BtnNum" parent="BtnBase">
+        <item name="backgroundTint">#2D2D2D</item>
+    </style>
+
+    <style name="BtnOp" parent="BtnBase">
+        <item name="backgroundTint">#FF9800</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BtnSpecial" parent="BtnBase">
+        <item name="backgroundTint">#616161</item>
+    </style>
+
+    <style name="BtnEqual" parent="BtnBase">
+        <item name="backgroundTint">#4CAF50</item>
+    </style>
+    <style name="Theme.ShakeCalc" parent="Base.Theme.ShakeCalc" />
+</resources>
