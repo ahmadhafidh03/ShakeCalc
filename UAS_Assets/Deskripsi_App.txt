@@ -1,14 +1,10 @@
-=== DETAIL APLIKASI SHAKECALC (UAS) ===
-
+DETAIL APLIKASI SHAKECALC (UAS)
 1. NAMA APLIKASI:
    ShakeCalc
-
 2. KATEGORI:
    Tools / Productivity
-
 3. DESKRIPSI SINGKAT (80 karakter):
    Kalkulator modern dengan fitur Shake-to-Clear dan efek getar haptic.
-
 4. DESKRIPSI PANJANG:
    ShakeCalc adalah aplikasi kalkulator inovatif yang dirancang untuk pengalaman menghitung yang lebih cepat dan interaktif.
 
@@ -19,9 +15,13 @@
    - Smart Save: Menyimpan hasil perhitungan terakhir secara otomatis, data aman meski aplikasi ditutup.
 
    Dibangun menggunakan Kotlin dan Android Studio terbaru, ShakeCalc menggabungkan fungsi matematika esensial dengan interaksi hardware (Accelerometer & Vibration) untuk memenuhi standar pengembangan aplikasi bergerak modern.
-
 5. EMAIL DEVELOPER:
    [ahmadhafidh64@gmail.com]
-
 6. KEBIJAKAN PRIVASI (Simple):
    Aplikasi ShakeCalc tidak mengumpulkan, menyimpan, atau membagikan data pribadi pengguna. Izin akses 'Vibrate' digunakan semata-mata untuk efek haptic feedback. Data perhitungan disimpan secara lokal di perangkat pengguna.
+7. TAGS APLIKASI:
+   Calculator, Scientific Calculator, Shake to Clear, Productivity, Math, Utilities, Free Calculator, Simple Tool
+8. FEATURE GRAPHIC:
+   (Lihat file Feature_Graphic.jpg di folder ini)
+9. VIDEO DEMO YOUTUBE:
+   https://youtu.be/iwT1PdXURXo
